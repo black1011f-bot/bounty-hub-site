@@ -1,0 +1,14 @@
+title: BOUNTY HUB
+description: Официальная информационная страница проекта BOUNTY HUB.
+lang: ru
+url: "https://black1011f-bot.github.io"
+baseurl: "/bounty-hub-site"
+
+# Простая статическая HTML-страница. Не включаем тему или плагины Jekyll.
+markdown: kramdown
+plugins: []
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
