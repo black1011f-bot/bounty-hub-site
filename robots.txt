@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://black1011f-bot.github.io/bounty-hub-site/sitemap.xml
